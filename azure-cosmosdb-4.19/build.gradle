@@ -24,4 +24,5 @@ jar {
 
 verifyInstrumentation {
    passes 'com.azure:azure-cosmos:[4.19.0,4.28.0)'
+   excludeRegex '.*beta.*'
 }
