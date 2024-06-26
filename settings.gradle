@@ -1,2 +1,6 @@
 rootProject.name = 'java-instrumentation-template'
-include 'azure-cosmsosdb-4.x'
+include 'azure-cosmsosdb-4.0'
+include 'azure-cosmsosdb-4.4'
+include 'azure-cosmsosdb-4.19'
+include 'azure-cosmsosdb-4.27'
+include 'azure-cosmsosdb-4.28'
